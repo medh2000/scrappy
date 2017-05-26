@@ -1,1 +1,2 @@
-# scrappy
+# database tables setup
+testing
